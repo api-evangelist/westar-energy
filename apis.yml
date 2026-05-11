@@ -95,6 +95,15 @@ common:
         description: >-
           Integration with smart home devices and thermostats for demand
           response and energy efficiency programs.
+  - type: Integrations
+    url: https://www.evergy.com/integrations
+integrations:
+  - name: Google Play store button
+  - name: Apple app store button
+  - name: Facebook
+  - name: Twitter
+  - name: YouTube
+  - name: LinkedIn
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
