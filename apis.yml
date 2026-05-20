@@ -22,6 +22,8 @@ created: '2026-03-24'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/westar-energy
   - type: Website
     url: https://www.evergy.com/
     title: Evergy (formerly Westar Energy)
