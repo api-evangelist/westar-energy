@@ -1,4 +1,16 @@
 aid: westar-energy
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/westar-energy.png
 name: Westar Energy
 url: https://raw.githubusercontent.com/api-evangelist/westar-energy/refs/heads/main/apis.yml
 modified: '2026-05-03'
