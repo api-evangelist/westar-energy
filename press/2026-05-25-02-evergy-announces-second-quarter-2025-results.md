@@ -1,7 +1,9 @@
 ---
 title: Evergy Announces Second Quarter 2025 Results ...
 url: https://investors.evergy.com/news-releases/news-release-details/evergy-announces-second-quarter-2025-results-declares-quarterly
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Westar Energy" press release artificial intelligence'
 position: 2
 source: serpapi-google

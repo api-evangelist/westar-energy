@@ -1,7 +1,9 @@
 ---
 title: Westar Energy Inc Ks 8-K Earnings Release, Regulated Disclosure
 url: https://last10k.com/sec-filings/54507/0001193125-26-210269.htm
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Westar Energy" press release artificial intelligence'
 position: 4
 source: serpapi-google
