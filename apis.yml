@@ -24,7 +24,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/westar-energy.png
 name: Westar Energy
 url: https://raw.githubusercontent.com/api-evangelist/westar-energy/refs/heads/main/apis.yml
-modified: '2026-05-03'
+modified: '2026-10-06'
 description: >-
   Westar Energy was the largest electric utility in Kansas, providing electric
   service to homes, businesses, and industries throughout Kansas before merging
@@ -46,6 +46,8 @@ created: '2026-03-24'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://newsroom.evergy.com/newsroom
+    type: Blog
   - type: DomainSecurity
     url: security/westar-energy-domain-security.yml
   - type: LinkedIn
