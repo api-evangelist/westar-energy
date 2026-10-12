@@ -52,7 +52,7 @@ common:
     url: security/westar-energy-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/westar-energy
-  - type: Website
+  - type: SuccessorProfile
     url: https://www.evergy.com/
     title: Evergy (formerly Westar Energy)
   - type: Portal
